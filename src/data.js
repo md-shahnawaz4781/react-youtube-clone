@@ -1,4 +1,4 @@
-export const API_KEY = 'AIzaSyC6H-LV8rPhFcZlRf6woHC0jueDXZEZ6VE'; // Remove the API_KEY and insert your here
+export const API_KEY = '[Enter Your API Key here]'
 
 export const value_converter = (value)=>{
         if(value>=1000000){
